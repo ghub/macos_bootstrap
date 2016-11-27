@@ -17,7 +17,7 @@ brew cask install firefox
 brew cask install google-chrome
 brew cask install google-drive
 brew cask install keepassx
+brew cask install skype
 brew cask install vagrant
 brew cask install virtualbox
 brew cask install vlc
-brew cask install skype
