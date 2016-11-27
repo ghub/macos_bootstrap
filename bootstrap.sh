@@ -6,6 +6,7 @@ brew update
 brew tap caskroom/cask
 
 brew install bash-completion
+brew install doxygen
 brew install macvim
 brew install stow
 brew install tmux
