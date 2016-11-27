@@ -1,4 +1,4 @@
 language: generic
 os: osx
 osx_image: xcode8.1
-script: bootstrap.sh
+script: ./bootstrap.sh
