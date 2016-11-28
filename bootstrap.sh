@@ -20,4 +20,5 @@ brew cask install keepassx
 brew cask install skype
 brew cask install vagrant
 brew cask install virtualbox
+brew cask install virtualbox-extension-pack
 brew cask install vlc
