@@ -1,10 +1,6 @@
 #!/bin/sh -ev
 
 which brew || /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
-
-test "$TRAVIS" != true || brew install doxygen
-
-brew doctor
 brew update
 brew tap caskroom/cask
 
