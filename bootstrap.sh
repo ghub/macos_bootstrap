@@ -7,6 +7,7 @@ brew tap caskroom/cask
 brew install bash-completion
 brew install cmake
 brew install macvim
+brew install packer
 brew install stow
 brew install tmux
 
