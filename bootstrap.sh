@@ -24,3 +24,7 @@ brew cask install vagrant
 brew cask install virtualbox
 brew cask install virtualbox-extension-pack
 brew cask install vlc
+
+brew tap homebrew/science
+brew cask install xquartz
+brew install octave
