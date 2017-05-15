@@ -6,12 +6,12 @@ brew tap caskroom/cask
 
 brew install bash-completion
 brew install cmake
+brew install cuda
 brew install macvim
 brew install packer
 brew install stow
 brew install tmux
 
-brew cask install cuda
 brew cask install docker
 brew cask install firefox
 brew cask install gfxcardstatus
