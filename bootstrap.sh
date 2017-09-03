@@ -9,6 +9,7 @@ brew install bash-completion
 brew install cmake
 brew install macvim
 brew install packer
+brew install reattach-to-user-namespace
 brew install stow
 brew install tmux
 
